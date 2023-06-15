@@ -2,7 +2,7 @@
 
 Simple currency converter.
 
-![1686844205722](image/README/1686844205722.png)
+![1686844480263](image/README/1686844480263.gif)
 
 [Online converter](https://myycrosoft.github.io/money_convert/)
 
